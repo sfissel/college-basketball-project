@@ -681,7 +681,7 @@ plt.show()
 ```
 
 
-![png](postseason-teams-postseason-results.png)
+![png](graphs/postseason-teams-postseason-results.png)
 
 
 ## Subsetting dataset to include 'WAB' (Wins in Postseason)
@@ -1000,7 +1000,7 @@ plt.show()
 ```
 
 
-![png](output_33_0.png)
+![png](graphs/output_33_0.png)
 
 
 ## Coordinating colors of points to team colors
@@ -1015,7 +1015,7 @@ plt.show()
 ```
 
 
-![png](power-rating-vs-wins-in-postseason.png)
+![png](graphs/power-rating-vs-wins-in-postseason.png)
 
 
 
