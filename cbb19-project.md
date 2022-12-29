@@ -590,7 +590,7 @@ plt.show()
 ```
 
 
-![png](power-rated-teams-postseason-results.png)
+![png](graphs/power-rated-teams-postseason-results.png)
 
 
 ## Subset and sort teams based on postseason results
