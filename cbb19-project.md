@@ -590,7 +590,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](power-rated-teams-postseason-results.png)
 
 
 ## Subset and sort teams based on postseason results
@@ -681,7 +681,7 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
+![png](postseason-teams-postseason-results.png)
 
 
 ## Subsetting dataset to include 'WAB' (Wins in Postseason)
@@ -1015,7 +1015,7 @@ plt.show()
 ```
 
 
-![png](output_35_0.png)
+![png](power-rating-vs-wins-in-postseason.png)
 
 
 
